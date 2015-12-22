@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="ChristmasList.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ChristmasList"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:ConnectionId='1' x:Name="listenButton" HorizontalAlignment="Left" Margin="25,33,0,0" VerticalAlignment="Top" Width="120" Height="35" Background="#FFB2B2B2" Foreground="#FF007AFF"                            >
+            <TextBlock x:ConnectionId='2' x:Name="ListenButtonText" Text="Listen" />
+        </Button>
+
+    </Grid>
+</Page>
+
