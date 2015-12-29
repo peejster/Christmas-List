@@ -1,1 +1,1 @@
-C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\ChristmasList.csproj;arm
+C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\ChristmasList.csproj;arm

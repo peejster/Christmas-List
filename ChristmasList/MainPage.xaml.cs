@@ -76,6 +76,9 @@ namespace ChristmasList
         // Start listening when the button is clicked
         void listenButton_Click(object sender, RoutedEventArgs e)
         {
+            TextToSpeech.Speak("What is your name?");
+            Task.Delay(4000).Wait();
+
             RecognizeName();
         }
 
@@ -85,8 +88,6 @@ namespace ChristmasList
             if (isListening == false)
             {
                 isListening = true;
-
-                TextToSpeech.Speak("What is your name?");
 
                 var nameRecognition = nameRecognizer.RecognizeAsync();
                 nameRecognition.Completed += this.NameRecognitionCompletedHandler;
@@ -100,7 +101,6 @@ namespace ChristmasList
             if (isListening == false)
             {
                 isListening = true;
-                TextToSpeech.Speak("Hello" + requestor + "\n" + "What would you like for Christmas?");
 
                 var itemRecognition = itemRecognizer.RecognizeAsync();
                 itemRecognition.Completed += this.ItemRecognitionCompletedHandler;
@@ -140,6 +140,8 @@ namespace ChristmasList
                 }
                 else
                 {
+                    TextToSpeech.Speak("Hello" + requestor + "\n" + "What would you like for Christmas?");
+                    Task.Delay(4000).Wait();
                     RecognizeChristmasListItem();
                 }
             }

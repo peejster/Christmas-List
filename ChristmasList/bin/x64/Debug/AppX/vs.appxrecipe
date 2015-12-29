@@ -22,13 +22,13 @@
     <AppXManifest Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-12-21T22:45:12.714</Modified>
+      <Modified>2015-12-29T01:28:23.328</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\bin\x64\Debug\ChristmasList.exe">
       <PackagePath>entrypoint\ChristmasList.exe</PackagePath>
-      <Modified>2015-12-21T22:45:12.224</Modified>
+      <Modified>2015-12-29T01:28:22.469</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prasa\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -494,7 +494,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\bin\x64\Debug\Core\ChristmasList.exe">
       <PackagePath>ChristmasList.exe</PackagePath>
-      <Modified>2015-12-21T22:45:12.712</Modified>
+      <Modified>2015-12-29T01:28:23.328</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

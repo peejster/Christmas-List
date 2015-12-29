@@ -9,16 +9,16 @@
     <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
     <PackageArchitecture>arm</PackageArchitecture>
     <PackageIdentityName>a992d04e-595d-45ad-85a8-d89b578587c4</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\obj\ARM\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\obj\ARM\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\bin\ARM\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\bin\ARM\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\bin\ARM\Debug\ChristmasList.exe">
+    <AppxPackagedFile Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\bin\ARM\Debug\ChristmasList.exe">
       <PackagePath>entrypoint\ChristmasList.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\prasa\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
@@ -330,46 +330,46 @@
     <AppxPackagedFile Include="C:\Users\prasa\.nuget\packages\System.Xml.XmlSerializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\bin\ARM\Debug\ChristmasList.xr.xml">
+    <AppxPackagedFile Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\bin\ARM\Debug\ChristmasList.xr.xml">
       <PackagePath>ChristmasList.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\bin\ARM\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\bin\ARM\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\prasa\Documents\GitHub\Christmas-List\ChristmasList\bin\ARM\Debug\Core\ChristmasList.exe">
+    <AppxPackagedFile Include="C:\Users\prasa\Desktop\My Projects\RPi Win10 Core\ChristmasList\ChristmasList\bin\ARM\Debug\Core\ChristmasList.exe">
       <PackagePath>ChristmasList.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
