@@ -8,9 +8,10 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <Button x:ConnectionId='1' x:Name="listenButton" HorizontalAlignment="Left" Margin="25,33,0,0" VerticalAlignment="Top" Width="120" Height="35" Background="#FFB2B2B2" Foreground="#FF007AFF"                            >
-            <TextBlock x:ConnectionId='2' x:Name="ListenButtonText" Text="Listen" />
-        </Button>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock x:ConnectionId='1' x:Name="GpioStatus" Text="Waiting to initialize GPIO..." Margin="10,50,10,10" TextAlignment="Center" FontSize="26.667" />
+            <TextBlock x:ConnectionId='2' x:Name="ListenerStatus" Text="Waiting to initialize listeners..." Margin="10,50,10,10" TextAlignment="Center" FontSize="26.667" />
+        </StackPanel>
 
     </Grid>
 </Page>
